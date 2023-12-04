@@ -89,7 +89,7 @@ const data = [
     name: "Neeche Se Check Kar ",
     img: "https://indian.memetemplates.in/uploads/1638988482.jpeg",
     
-    cat: "3 Idiot",
+    cat: "3 Idiots",
   },
 
   {
@@ -108,10 +108,10 @@ const data = [
   },
   {
     id: 5,
-    name: "Jali Na Teri BHi Jali Na",
+    name: "Neeche Se Check Kar",
     img: "https://indian.memetemplates.in/uploads/1638988482.jpeg",
     
-    cat: "Akshay Kumar",
+    cat: "3 Idiots",
   },
   {
     id: 5,
@@ -132,7 +132,7 @@ const data = [
     name: "Beta Tumse Na Ho Payega",
     img: "https://indian.memetemplates.in/uploads/1641410719.jpeg",
     
-    cat: "Wasseypur",
+    cat: "Gangs of Wasseypur",
   },
   {
     id: 5,
@@ -309,35 +309,42 @@ const data = [
     name: "Chabi Kha Hai",
     img: "https://indianmemetemplates.com/wp-content/uploads/chabi-kaha-hai-1200x675.jpg",
     
-    cat: "Wasseypur",
+    cat: "Gangs of Wasseypur",
   },
   {
     id: 5,
     name: "Gaadi Start Kar",
     img: "https://indianmemetemplates.com/wp-content/uploads/ae-gaadi-start-kar-1200x675.jpg",
     
-    cat: "Wasseypur",
+    cat: "Gangs of Wasseypur",
   },
   {
     id: 5,
     name: "Saanp Ko Paal Rha Tha",
     img: "https://indianmemetemplates.com/wp-content/uploads/saala-saanp-ko-paal-raha-tha.jpg",
     
-    cat: "Wasseypur",
+    cat: "Gangs of Wasseypur",
   },
   {
     id: 5,
     name: "Achha Baat Nhi Hai",
     img: "https://indianmemetemplates.com/wp-content/uploads/accha-baat-nahi-hai-ye-1200x674.jpg",
     
-    cat: "Wasseypur",
+    cat: "Gangs of Wasseypur",
+  },
+  { id: 5,
+    name: "Akshay Kumar Swap",
+    img:"https://indianmemetemplates.com/wp-content/uploads/akshay-kumar-swap-ajnabee.jpg",
+    
+    cat: "Akshay Kumar",
+   
   },
   {
     id: 5,
     name: "Aapka Hai Toj Kaagaz Dikhaiye",
     img: "https://indianmemetemplates.com/wp-content/uploads/aapka-hai-toh-kagaz-dikhaiye.jpg",
     
-    cat: "Wasseypur",
+    cat: "Gangs of Wasseypur",
   },
   {
     id: 5,
@@ -349,10 +356,50 @@ const data = [
 
   {
     id: 5,
+    name: "Akshay Kumar Smile",
+    img: "https://memes.co.in/Uploads/Media/Nov22/Mon14/774/88104d.jpg",
+    
+    cat: "Akshay Kumar",
+  },
+
+  {
+    id: 5,
+    name: "Are Mujhe Chakkar Aane lga",
+    img: "https://allmemetemplates.files.wordpress.com/2020/02/arey-mujhe-chakkar-aane-laga-hai-768x432-1.jpg?w=768",
+    
+    cat: "Akshay Kumar",
+  },
+ 
+
+  {
+    id: 5,
+    name: "Jor Jor Se Bolke",
+    img: "https://www.scrolldroll.com/wp-content/uploads/2021/09/Akshay-Kumar-Meme-templates-14.jpeg",
+    
+    cat: "Hera Pheri",
+  },
+ 
+  {
+    id: 5,
     name: "Do Laana",
     img: "https://akm-img-a-in.tosshub.com/sites/lallantop/wp-content/uploads/2022/03/whatsapp-image-2022-03-16-at-33908-pm_160322-100925.jpeg",
     
     cat: "Rajpal Yadav",
+  },
+
+  {
+    id: 5,
+    name: "Ye Bhed Bhav Kyi",
+    img: "https://1.bp.blogspot.com/-ml9fQqX7uyg/XvynZyfDoxI/AAAAAAAADA4/gYDZwLuZS8EcxcJ41EdvOfMc2kHyXvvLgCLcBGAsYHQ/s1600/i710r.jpeg",
+    
+    cat: "Hera Pheri",
+  },
+
+  {
+    id:5,
+    name:"Kaun Bhawk Rha Hai",
+    img:"https://allmemetemplates.files.wordpress.com/2020/02/img_20200709_183602.jpg?w=707",
+    cat:"Welcome",
   },
   {
     id: 5,
@@ -375,6 +422,138 @@ const data = [
     
     cat: "Rajpal Yadav",
   },
+  {
+    id:5,
+    name:"Lagta Hai Aapke Pyaar",
+    img:"https://indian.memetemplates.in/uploads/1641576394.jpeg",
+    cat:"Welcome",
+  },
+
+  {
+    id:5,
+    name:"Ye Raaj Bhi Usi Ke Saath",
+    img:"https://d33wubrfki0l68.cloudfront.net/ecd056bce3e35d5e8a653a422d82b9635ef42b00/18588/img/templates/welcome-raaz.jpg",
+    cat:"Welcome",
+  },
+  {
+    id:5,
+    name:"Bolne De Takleef Hui Hai",
+    img:"https://getmemetemplates.com/wp-content/uploads/2020/04/PicsArt_04-15-11.35.58-1024x464.jpg",
+    cat:"Welcome",
+  },
+  {
+    id:5,
+    name:"Saala Jalta Hai Mujhse ",
+    img:"https://allmemetemplates.files.wordpress.com/2020/02/saala-jalta-hain-mujhse-768x382-1.jpg?w=768",
+    cat:"Welcome",
+  },
+  {
+    id:5,
+    name:"Bhai Sahab Ye Kis Line",
+    img:"https://www.scrolldroll.com/wp-content/uploads/2020/05/Welcome-Memes-9.jpg",
+    cat:"Welcome",
+  },
+
+
+
+
+  {
+    id:5,
+    name:"Kehna Kya Chahte HO",
+    img:"https://indian.memetemplates.in/uploads/1677405954.jpeg",
+    cat:"3 Idiots",
+  },
+  {
+    id:5,
+    name:"Hai Himmat Aayega",
+    img:"https://humornama.com/wp-content/uploads/2022/02/Hai-Himmat-Meme-Template-on-3-Idiots.jpg",
+    cat:"3 Idiots",
+  },
+  {
+    id:5,
+    name:"Permanent Hoon Sir",
+    img:"https://pbs.twimg.com/media/F6iENuQWsAAdkwE.jpg",
+    cat:"3 Idiots",
+  },
+  {
+    id:5,
+    name:"Saalary Kitna Loge",
+    img:"https://www.scrolldroll.com/wp-content/uploads/2020/06/3-idiots-memes-14.jpg",
+    cat:"3 Idiots",
+  },
+  {
+    id:5,
+    name:"Jhooth Bol Rha Hai",
+    img:"https://indianmemetemplates.com/wp-content/uploads/nahi-jhooth-bol-raha-hai.jpg",
+    cat:"3 Idiots",
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    id:5,
+    name:"Me Koi Gaon Se Aaya Hu Kya",
+    img:"https://memetemplatehouse.com/wp-content/uploads/2020/06/mein-koi-gaon-se-aya-hun-kya-Rajpal-Yadav-hera-pheri-1024x575.jpg",
+    cat:"Rajpal Yadav",
+  },
+  {
+    id:5,
+    name:"Aage Ka Kya Socha Hai",
+    img:"https://indianmemetemplates.com/wp-content/uploads/maalik-aage-ka-kya-socha-hai-1024x576.jpg",
+    cat:"Rajpal Yadav",
+  },
+  {
+    id:5,
+    name:"Humko Chahiye Full Izzat",
+    img:"https://humornama.com/wp-content/uploads/2020/12/Ab-Humko-Chahiye-Full-Izzat-meme-template-of-Mirzapur-608x342.jpg",
+    cat:"Mirzapur",
+  },
+  {
+    id:5,
+    name:"Aate Hi Kaam Suru",
+    img:"https://humornama.com/wp-content/uploads/2020/10/Aate-Hi-Kaam-Shuru-Kar-Diye-meme-template-of-Mirzapur.jpg",
+    cat:"Mirzapur",
+  },
+
+  {
+    id:5,
+    name:"Hum Karte Hai Prabhandh",
+    img:"https://memeheist.com/wp-content/uploads/2023/09/Hum-Karte-Hai-Prabandh-Meme-.jpg",
+    cat:"Mirzapur",
+  },
+  {
+    id:5,
+    name:"Bahut Takleef Hoti Hai",
+    img:"https://allmemetemplates.files.wordpress.com/2020/02/bohut-taqleef-hoti-hai-jab-aap-yogy-ho-aur-log-aapki-yogyata-na-pehchane-768x431-1.jpg",
+    cat:"Mirzapur",
+  },
+
+  {
+    id:5,
+    name:"Kaanp Kahe Rhi Ho ",
+    img:"https://www.memestemplates.com/wp-content/uploads/2020/08/kaanp-kahe-rahi-ho.jpg",
+    cat:"Gangs of Wasseypur",
+  },
+  {
+    id:5,
+    name:"Kya Kiye Koot Diye",
+    img:"https://indianmemetemplates.com/wp-content/uploads/kya-kiye-koot-diye.jpg",
+    cat:"Gangs of Wasseypur",
+  },
+  {
+    id:5,
+    name:"Sexy Lag Rha Tha",
+    img:"https://indianmemetemplates.com/wp-content/uploads/2019/01/aise-hi-sexy-lag-raha-tha.jpg",
+    cat:"Gangs of Wasseypur",
+  },
+
 
   {
     id: 5,
